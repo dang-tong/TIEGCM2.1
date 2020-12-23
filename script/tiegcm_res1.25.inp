@@ -1,0 +1,35 @@
+&tgcm_input
+ LABEL = 'tiegcm res=1.25'
+ START_YEAR = 2015
+ START_DAY  = 329
+ CALENDAR_ADVANCE = 1
+ SOURCE = './tiegcm_res1.25_decsol_smin_prim.nc'
+ SOURCE_START = 355 0 0
+ START = 329 0 0
+ STOP  = 349 0 0
+ STEP  = 20
+ OPLUS_STEP = 2
+ HIST = 1 0 0
+ OUTPUT = 'tiegcm_res1.25_prim_329.nc','to','tiegcm_res1.25_prim_349.nc','by','1'
+ MXHIST_PRIM = 1
+ SECSTART = 348 0 0
+ SECSTOP  = 349 0 0
+ SECHIST  =  1 0 0
+ SECOUT   = 'tiegcm_res1.25_sech_001.nc','to','tiegcm_res1.25_sech_999.nc','by','1'
+ MXHIST_SECH = 1
+ SECFLDS = 'ZG' 'NE' 'NMF2' 'HMF2'
+ GSWM_MI_DI_NCFILE = './gswm_diurn_1.25d_99km.nc'
+ GSWM_MI_SDI_NCFILE = './gswm_semi_1.25d_99km.nc'
+ POTENTIAL_MODEL = 'HEELIS'
+! GPI_NCFILE ='./gpi_2017.nc'
+! IMF_NCFILE ='./imf_2017Aug.nc'
+ F107 = 80
+ F107A = 80
+ KP = 2
+ AURORA = 1
+ COLFAC = 1.5
+ DYNAMO = 1
+ CURRENT_PG = 1
+ CURRENT_KQ = 0
+ CALC_HELIUM = 0
+/

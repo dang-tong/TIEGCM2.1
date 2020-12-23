@@ -1,0 +1,30 @@
+!
+! This software is part of the NCAR TIE-GCM.  Use is governed by the 
+! Open Source Academic Research License Agreement contained in the file 
+! tiegcmlicense.txt.
+!
+! By Tong Dang, July, 2017
+!
+!------------------------------------
+! 1.25 degree lat x lon horizontal resolution:
+!
+! Latitude dimension:
+#define NLAT  (288)
+#define GLAT1 (-89.6875)
+#define DLAT  (0.625)
+!
+! Longitude dimension:
+#define NLON  (576)
+#define GLON1 (-180.)
+#define DLON  (0.625)
+!
+!------------------------------------
+! Vertical column interfaces and midpoints (dz=0.25):
+!
+#define ZIBOT (-7.0)
+#define ZITOP (7.0)
+#define ZMBOT (-6.875)
+#define ZMTOP (7.125)
+#define NLEV (56)
+!
+!------------------------------------
