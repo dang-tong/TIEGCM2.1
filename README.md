@@ -1,7 +1,7 @@
 # TIEGCM 2.1
 High-resolution version of TIEGCM with horizontal resolution up to 0.625 degrees.
 
-If you use this code, please cite the paper [Dang T. et al. GMD, (2020)](https://doi.org/10.5194/gmd-2020-243).
+If you use the 1.25 or 0.625 deg TIEGCM and the further extensions, please cite the paper [Dang T. et al. GMD, (2021)](https://doi.org/10.5194/gmd-14-1-2021).
 
 Please cantact the code owner Tong DANG(dangt@ustc.edu.cn) for further questions.
 
