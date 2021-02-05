@@ -1,11 +1,11 @@
 # TIEGCM 2.1
 High-resolution version of TIEGCM with horizontal resolution up to 0.625 degrees.
 
-If you use the 1.25 or 0.625 deg TIEGCM and the further extensions, please cite the paper below:
+If you use the 1.25 or 0.625 deg TIEGCM and the further extensions, **please cite the paper below**:
 
 Dang, T., Zhang, B., Lei, J., Wang, W., Burns, A., Liu, H.-L., Pham, K., and Sorathia, K. A.: Azimuthal averaging–reconstruction filtering techniques for finite-difference general circulation models in spherical geometry, Geosci. Model Dev., 2021
 
-Please cantact the code owner Tong DANG(dangt@ustc.edu.cn) for further questions.                                                                                           
+Please cantact the code owner **Tong DANG**(dangt@ustc.edu.cn) for further questions.                                                                                           
 
 ### BUILD & RUN
 The compilation and run of TIEGCM 2.1 are based on the typical [NCAR TIEGCM2.0](https://www.hao.ucar.edu/modeling/tgcm/tie.php).
