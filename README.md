@@ -3,7 +3,7 @@ High-resolution version of TIEGCM with horizontal resolution up to 0.625 degrees
 
 If you use the 1.25 or 0.625 deg TIEGCM and the further extensions, **please cite the paper below**:
 
-*Dang, T., Zhang, B., Lei, J., Wang, W., Burns, A., Liu, H.-L., Pham, K., and Sorathia, K. A.: Azimuthal averaging–reconstruction filtering techniques for finite-difference general circulation models in spherical geometry, Geosci. Model Dev., 2021.*
+[*Dang, T.*, Zhang, B., Lei, J., Wang, W., Burns, A., Liu, H., Pham, K., and Sorathia, K. A.: Azimuthal averaging–reconstruction filtering techniques for finite-difference general circulation models in spherical geometry, Geosci. Model Dev., 14, 859–873, https://doi.org/10.5194/gmd-14-859-2021, 2021.](https://doi.org/10.5194/gmd-14-859-2021)
 
 Please cantact the code owner **Tong DANG**(dangt@ustc.edu.cn) for further questions.                                                                                           
 
